@@ -2,6 +2,9 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+//Adding comment to checking my git
+//adding more comment to check my GIT
+
 namespace Employee.Models
 {
     public class Employees
